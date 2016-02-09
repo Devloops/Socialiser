@@ -1,0 +1,17 @@
+PODS:
+  - Alamofire (3.2.0)
+  - AlamofireNetworkActivityIndicator (1.0.0):
+    - Alamofire (~> 3.2)
+  - Firebase (2.5.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.2)
+  - AlamofireNetworkActivityIndicator (~> 1.0)
+  - Firebase (>= 2.5.0)
+
+SPEC CHECKSUMS:
+  Alamofire: 4da478599fccddff361205c8929333d7fe18dceb
+  AlamofireNetworkActivityIndicator: 34e6fe7ebb5d8df76cc55fbf83a6087ae6457344
+  Firebase: 744617c0733b45198f9486ebd5cac64ec2d10d79
+
+COCOAPODS: 0.39.0
