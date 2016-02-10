@@ -3,11 +3,11 @@ Socialiser
 **Socialiser** is an online social networking service that enables users to send and read short messages.
 
 #### Screenshot
-![Screenshot](http://github.com/Devslops/Socialiser/screenshots/blob/master/1.png "screenshot iOS")
+![Screenshot](https://github.com/Devloops/Socialiser/blob/master/screenshots/1.png "screenshot iOS")
 
-![Screenshot](http://github.com/Devslops/Socialiser/screenshots/blob/master/2.png "screenshot iOS")
+![Screenshot](https://github.com/Devloops/Socialiser/blob/master/screenshots/2.png "screenshot iOS")
 
-![Screenshot](http://github.com/Devslops/Socialiser/screenshots/blob/master/3.png "screenshot iOS")
+![Screenshot](https://github.com/Devloops/Socialiser/blob/master/screenshots/3.png "screenshot iOS")
 
 ## Tests
 #### Works on
@@ -29,5 +29,4 @@ Socialiser
 ## Contact
 #### Developer/Company
 * Homepage: [@devloops.xyz](https://devloops.xyz "website")
-* e-mail: [](https://devloops.xyz "Devloops E-mail")
-* Twitter: [@twitterhandle](https://twitter.com/twitterhandle "twitterhandle on twitter")
+* Twitter: [@devloops](https://twitter.com/devloops "devloops on twitter")
