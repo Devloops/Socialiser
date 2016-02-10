@@ -28,5 +28,5 @@ Socialiser
 
 ## Contact
 #### Developer/Company
-* Homepage: [@devloops.xyz](https://devloops.xyz "website")
+* Homepage: [devloops.xyz](https://devloops.xyz "website")
 * Twitter: [@devloops](https://twitter.com/devloops "devloops on twitter")
